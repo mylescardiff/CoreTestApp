@@ -1,5 +1,5 @@
 <h1>Core Test App</h1>
-<p style="color:red;">![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) First Step: You will not be able to access the database in this app without sending me your IP address to white list it. Please send it with your name to: <a href="jobs@52Six.co">jobs@52Six.co</a></p>
+<p style="color:red;"><b><u>First Step:</u></b> You will not be able to access the database in this app without sending me your IP address to white list it. Please send it with your name to: <a href="jobs@52Six.co">jobs@52Six.co</a></p>
 
 <p>
     Here is a simple ASP.NET Core MVC application. Your task is to add a blog to this app.
