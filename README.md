@@ -1,5 +1,5 @@
  <h1>Core Test App</h1>
-    <span style="color:red;">First Step: You will not be able to access the database in this app without sending me your IP address to white list it. Please send it with your name to: <a href="jobs@52Six.co">jobs@52Six.co</a></span>
+    <span style="color:red;">First Step: You will not be able to access the database in this app without sending me your IP address to white list it. Please send it with your name to: <a href="mailto:jobs@52Six.co">jobs@52Six.co</a></span>
 
     <p>
         Here is a simple ASP.NET Core MVC application. Your task is to add a blog to this app.
